@@ -15,7 +15,7 @@ releases.
 ## Example
 This is a simple proxy example using the SOCKS server:
 ```js
-var socks = require('../lib'),
+var socks = require('sockserver'),
     net = require('net');
 
 function handler(data) {
