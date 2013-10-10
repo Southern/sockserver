@@ -1,0 +1,17 @@
+{
+  "name": "sockserver",
+  "version": "0.0.0",
+  "description": "SOCKS4/4a/5 server",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "socks4",
+    "socks4a",
+    "socks5",
+    "socks"
+  ],
+  "author": "Colton Baker",
+  "license": "MIT"
+}
