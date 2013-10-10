@@ -1,6 +1,6 @@
 {
   "name": "sockserver",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "SOCKS4/4a/5 server",
   "main": "lib/index.js",
   "scripts": {
